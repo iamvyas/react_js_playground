@@ -8,7 +8,7 @@ const hooksBasic = () =>{
             this is hooks section
             <Link className="text-white" to="stateMgmt">state management</Link>
             <Routes>
-                <Route path="/stateMgmt" element={<StateMgmt />} />
+                <Route path="/stateMgmt" element={<StateMgmt />} /> 
             </Routes>
         </div>
     )
